@@ -4,7 +4,7 @@
 
 
 
-##  *Skills: REACT / JS / HTML / CSS*
+###### *Skills: REACT / JS / HTML / CSS*
 📫 *How to reach me: anishs293@outlook.com* 
 
 
