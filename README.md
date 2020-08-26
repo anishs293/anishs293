@@ -1,4 +1,4 @@
-***𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 :crescent_moon:***
+***𝙷ello Geeks :crescent_moon:***
 #### *Anish is a frontend developer. He spends most of his day writing code in React for Web applications while drinking coffee and telling bad jokes that only he laughs to. He also feels weird writing about himself in third person.*
 
 
