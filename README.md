@@ -5,7 +5,7 @@
 
 ###### *Skills: REACT / JS / HTML / CSS*
 <br/>
-<img src='https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966' alt='github' height='100' width='100'>
+<img src='https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966' alt='github' height='100' width='100' align='right'>
 
 📫 *How to reach me: 𝚊𝚗𝚒𝚜𝚑𝚜𝟸𝟿𝟹@𝚘𝚞𝚝𝚕𝚘𝚘𝚔.𝚌𝚘𝚖* 
 <br/><br/><br/><br/>
