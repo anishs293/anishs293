@@ -5,7 +5,7 @@
 <img src='https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966' alt='github' height='150' width='150' align='right'>
 
 <br/><br/>
-##### *𝗠𝘆 𝗧𝗲ch 𝗦𝘁𝗮𝗰𝗸*
+ ##### *My Tech Stack*
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
