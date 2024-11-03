@@ -10,7 +10,7 @@ I have over 7 years of experience in frontend development, specializing in React
 - **Testing**: Jest, React Testing Library, Cypress
 
 ### 📈 GitHub Stats
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishsingh293&show_icons=true&hide_border=true)
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anishsingh293&hide_border=true" alt="Anish's GitHub Streak Stats" />
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anishsingh293/)
