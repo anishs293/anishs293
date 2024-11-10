@@ -73,7 +73,7 @@ I'm always excited to collaborate on new projects or discuss innovative ideas. F
 - [Frontend Masters] The Good Parts of JavaScript and the Web
 - [Frontend Masters] The Hard Parts of UI Development
 - [Frontend Masters] The Last Algorithms Course You'll Want (Part 1 & 2)
-- [Lynda.com] Webpack for React Applications
+- [Udemy] Webpack 5: The Complete Guide For Beginners
 
 ---
 ### 💡 **Interests**
