@@ -64,9 +64,9 @@ Welcome to my GitHub profile! I'm passionate about building performant, secure, 
 
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
 
-- 🌐 **Website**: [www.yourwebsite.com](#)
+- 🌐 **Website**: [](#)
 - 💼 **LinkedIn**: [linkedin.com/in/anishsingh293](https://www.linkedin.com/in/anishsingh293/)
-- 📧 **Email**: [your.email@example.com](mailto:anishs293@oulook.com)
+- 📧 **Email**: [anishs293@oulook.com](mailto:anishs293@oulook.com)
 
 ---
 ### 🎓 Certifications & Courses
