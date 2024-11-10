@@ -1,7 +1,7 @@
 
 # Hi there, I'm Anish Singh 👋
 
-👨‍💻 **Senior Software Engineer** | 🧩 **React & Frontend Enthusiast** | 🚀 **Building Scalable Frontend Solutions**
+👨‍💻 **Senior Software Engineer** | ⚛️ **React & Frontend Enthusiast** | 🚀 **Building Scalable Frontend Solutions**
 
 Welcome to my GitHub profile! I'm passionate about building performant, secure, and accessible web applications. With over 7 years of experience in frontend development, I specialize in React and modern web technologies, aiming to create seamless user experiences through clean and maintainable code.
 
@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm passionate about building performant, secure, 
 
 - 🌐 Developing scalable frontend architectures
 - ⚡ Optimizing web performance for enhanced user engagement
+-  📘 Curating a [Frontend Resources Repository](#) with valuable learning materials
 - 🛡️ Implementing security best practices in web applications
 - ♿ Advocating for web accessibility and inclusive design
-- 📘 Curating a [Frontend Resources Repository](#) with valuable learning materials
 
 ---
 
